@@ -3,8 +3,8 @@ These days many wearable device companies collect and utilize user data to advan
 
 run_analysis.R is created to do the following:
 
-- Merges the training and the test sets to create one data set.
+- Merges the training and the test data sets to create one data set 'Merged'.
 - Extracts only the measurements on the mean and standard deviation for each measurement.
-- Uses descriptive activity names to name the activities in the data set
-- Appropriately labels the data set with descriptive variable names.
-- Creates a second, independent tidy data set with the average of each variable for each activity and each subject.
+- Uses descriptive activity names to name the activities in the data set.
+- Appropriately labels the data set with descriptive variable names with the gsub() function.
+- Creates a second, independent tidy data set 'FinalCleanData.txt' with the average of each variable for each activity and each subject.
