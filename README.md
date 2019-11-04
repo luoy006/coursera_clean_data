@@ -1,5 +1,5 @@
 # Getting and Cleaning Data Course Project
-These days many wearable device companies collect and utilize user data to advance algorithms to attract new users. The aim of this project is to analyze data collected by Anguita, D et al from the accelerometers from the Samsung Galaxy S smartphone of 30 volunteers within the age of 19-48. The original dataset is downloaded from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip.
+These days many wearable device companies collect and utilize user data to advance algorithms to attract new users. The aim of this project is to analyze data collected by Anguita, D et al from the accelerometers from the Samsung Galaxy S smartphone of 30 volunteers within the age of 19-48. The original dataset is downloaded from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip, which contains two randomly partitioned sets, the training data (70% of the volunteers) and the test data (30% of the volunteers). 
 
 run_analysis.R is created to do the following:
 
