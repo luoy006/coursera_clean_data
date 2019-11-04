@@ -8,3 +8,5 @@ run_analysis.R is created to do the following:
 - Uses descriptive activity names to name the activities in the data set.
 - Appropriately labels the data set with descriptive variable names with the gsub() function.
 - Creates a second, independent tidy data set 'FinalCleanData.txt' with the average of each variable for each activity and each subject.
+
+A code book that describes the variables, the data, and any transformations performed can be found in CodeBook.md.
